@@ -3,7 +3,7 @@
     <h1>Register</h1>
     <p>Please fill in this form to create an account.</p>
     <hr> 
-    <label for="Name"><b>Enter Name</b></label>
+    <label for="Name"><b>Priyanka</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
@@ -30,4 +30,5 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
   
+
 </form>
